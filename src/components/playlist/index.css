@@ -1,0 +1,22 @@
+.name-genre-container {
+  display: flex;
+
+  justify-content: space-between;
+  width: 85%;
+}
+.div1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+}
+.div2 {
+  display: flex;
+  align-items: center;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
